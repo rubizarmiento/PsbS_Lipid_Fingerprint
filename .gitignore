@@ -4,6 +4,7 @@
 # Except this file
 !.gitignore
 
+!3_Lipid_Fingerprint_Analysis/
 !3_Lipid_Fingerprint_Analysis/*py
 !3_Lipid_Fingerprint_Analysis/*ipynb
 
