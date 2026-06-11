@@ -7,6 +7,9 @@
 !3_Lipid_Fingerprint_Analysis/
 !3_Lipid_Fingerprint_Analysis/*py
 !3_Lipid_Fingerprint_Analysis/*ipynb
+!useful_commands.md
+!scripts/*py
+!workdlows/*sh
 
 # Allow specific directories (uncomment or add below)
 # !my_directory/
