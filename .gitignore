@@ -4,6 +4,9 @@
 # Except this file
 !.gitignore
 
+!3_Lipid_Fingerprint_Analysis/*py
+!3_Lipid_Fingerprint_Analysis/*ipynb
+
 # Allow specific directories (uncomment or add below)
 # !my_directory/
 # !my_directory/**
