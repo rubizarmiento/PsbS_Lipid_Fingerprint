@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except this file
+!.gitignore
+
+# Allow specific directories (uncomment or add below)
+# !my_directory/
+# !my_directory/**
